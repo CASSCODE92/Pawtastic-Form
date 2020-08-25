@@ -29,10 +29,19 @@ const pawtastic= (
 
     <p>Gender</p>
     <input type="radio" id="male" name="gender" value="male">
-        <label for="male">Male</label><br>
+        <label for="male">Male</label>
         <input type="radio" id= "female"
         name="gender" value="female">
             <label for="female">Female</label>
+
+    <p>Spayed or Neutered<p>
+            <input type="radio" id="yes" name="spayedOrNeutered" value="yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id= "no"
+        name="spayedOrNeutered" value="no">
+            <label for="no">No</label>
+
+
 
     
 </form>
