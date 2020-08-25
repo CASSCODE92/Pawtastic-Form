@@ -30,7 +30,10 @@ const pawtastic= (
     <p>Gender</p>
     <input type="radio" id="male" name="gender" value="male">
         <label for="male">Male</label><br>
-        
+        <input type="radio" id= "female"
+        name="gender" value="female">
+            <label for="female">Female</label>
+
     
 </form>
 )
