@@ -26,6 +26,11 @@ const pawtastic= (
     <label name= "petBreed">Breed</label> 
 
     <label name= "petsBirthday">Birthday</label> 
+
+    <p>Gender</p>
+    <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label><br>
+        
     
 </form>
 )
