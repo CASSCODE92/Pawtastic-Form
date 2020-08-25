@@ -49,8 +49,8 @@ const pawtastic= (
         name="weight" value="25-50 lbs">
             <label for="25-50 lbs">25-50 lbs</label>
 
-            <input type="radio" id="male" name="weight" value="male">
-        <label for="male">Male</label>
+            <input type="radio" id="50-100 lbs" name="weight" value="50-100 lbs">
+        <label for="50-100 lbs">50-100 lbs</label>
 
         <input type="radio" id= "female"
         name="weight" value="female">
