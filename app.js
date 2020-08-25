@@ -54,7 +54,9 @@ const pawtastic= (
 
         <input type="radio" id= "100+ lbs"
         name="weight" value="100+ lbs">
-            <label for="100+ lbs">100+ lbs</label>            
+            <label for="100+ lbs">100+ lbs</label>  
+
+    <button>Back</button>          
 
 
 
