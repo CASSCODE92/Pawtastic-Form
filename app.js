@@ -17,6 +17,8 @@ const pawtastic= (
         <input type= "checkbox" id="Confirm" class="checkbox" />
         <label for="Confirm" class="switch"></label>
     </ul>
+<
+    <img src= "pawDoge.jpg" alt= "Dog Pic" ></img>
 </span>
 
 <h6>Yay, we love dogs! Give us the basics about your pup.</h6>
