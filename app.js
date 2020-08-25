@@ -23,7 +23,7 @@ const pawtastic= (
 <form class="input">
     <label name= "petsName">Name</label>
 
-    <label name= "firstName">Pet's Name</label> 
+    <label name= "petBreed">Breed</label> 
     
 </form>
 )
