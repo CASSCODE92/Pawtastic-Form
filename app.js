@@ -56,7 +56,8 @@ const pawtastic= (
         name="weight" value="100+ lbs">
             <label for="100+ lbs">100+ lbs</label>  
 
-    <button>Back</button>          
+    <button>Back</button> 
+    <button>Next</button>          
 
 
 
