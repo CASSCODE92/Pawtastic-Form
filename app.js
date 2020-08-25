@@ -27,6 +27,15 @@ const pawtastic= (
 
     <label name= "petsBirthday">Birthday</label> 
 
+    <p>Upload a photo</p>
+    <form>
+        <input type="file" id="userFile"
+        name="file">
+
+        <input type= "submit">
+
+    </form>
+
     <p>Gender</p>
     <input type="radio" id="male" name="gender" value="male">
         <label for="male">Male</label>
