@@ -39,7 +39,19 @@ const pawtastic= (
         <label for="yes">Yes</label>
         <input type="radio" id= "no"
         name="spayedOrNeutered" value="no">
-            <label for="no">No</label>
+            <label for="no">No</label><br>
+
+    <p>Weight</p>  
+    <input type="radio" id="0-125 lbs " name="weight" value="0-125 lbs">
+        <label for="0-125 lbs">0-125 lbs</label>
+        <input type="radio" id= "female"
+        name="weight" value="female">
+            <label for="female">Female</label>
+            <input type="radio" id="male" name="weight" value="male">
+        <label for="male">Male</label>
+        <input type="radio" id= "female"
+        name="weight" value="female">
+            <label for="female">Female</label>            
 
 
 
