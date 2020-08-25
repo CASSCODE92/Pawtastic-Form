@@ -24,6 +24,8 @@ const pawtastic= (
     <label name= "petsName">Name</label>
 
     <label name= "petBreed">Breed</label> 
+
+    <label name= "petsBirthday">Birthday</label> 
     
 </form>
 )
